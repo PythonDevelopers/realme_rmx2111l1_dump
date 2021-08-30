@@ -1,0 +1,5 @@
+
+<permissions>
+    <feature name="oppo.network.sar.earpiece.detect.support" />
+    <feature name="oppo.network.sar.fcc.detect.support" />
+</permissions>

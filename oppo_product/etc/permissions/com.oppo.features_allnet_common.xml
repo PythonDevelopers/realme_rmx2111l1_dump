@@ -1,0 +1,14 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<!-- COLOR_EDIT.  add oppo.screen.hovering.support ;remove oppo.narrow.frame -->
+<permissions>
+    <!-- Yuan.Huang@PSW.CN.WiFi.Basic.SoftAp.1181662, 2018/10/22, Add for AP_STA concurrency feature -->
+    <feature name="oppo.ap.sta.concurrency.support" />
+    <!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1197891, 2018/08/24, Add for SLA feature -->
+    <feature name="oppo.wlan.sla.support" />
+    <!-- Xiao.Li@PSW.CN.WiFi.Network.1471780, 2018/08/11, add for traffic limit -->
+    <!-- <feature name="oppo.traffic.limit.support" /> -->
+    <!-- Wenkan.Zhu@PSW.CN.WiFi.Network.internet.1800709, 2019/01/24, Add for private feature -->
+    <feature name="oppo.wlan.privateDns.support" />
+    <!-- zhaochengsheng@PSW.CN.WiFi.Basic.Custom.2631031, 2019/12/27, Add for DBDC private feature -->
+    <!-- <feature name="oppo.wifi.dbdc" /> -->
+</permissions>

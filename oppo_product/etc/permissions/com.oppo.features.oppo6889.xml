@@ -1,0 +1,7 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <feature name="oppo.hw.manufacturer.mtk" />
+    <feature name="mtk.gemini.support" />
+    <feature name="oppo.hardware.face.nopowerblock" />
+    <feature name="oppo.side.touch.fingerprint.sensor" />
+</permissions>
